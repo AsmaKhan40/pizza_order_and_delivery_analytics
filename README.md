@@ -28,20 +28,24 @@ Explored the Data with Python:- Analyzed key trends and created visualizations f
 Documented Everything:- Summarized the findings and actionable recommendations in a PowerPoint presentation.
 
 📂 Dataset
+
 Source: Kaggle - Enhanced Pizza Data
 Description: The dataset contains pizza order details, including order ID, date, pizza type, size, delay, location, etc.
 
-📝 Actionable Insights:- 
+📝 Actionable Insights
+
 Focus on improving delivery efficiency for pizzas that often face delays, like Non-Veg pizzas, to keep customers happy.
 Plan for extra staff during peak months such as August, when orders are at their highest.
 Make arrangements of resources in each location according to the pizzas that are commonly ordered there.
 Run promotional offers or discounts during months with fewer orders, like July, to increase sales.
 
 📌 Future Improvements
+
 Add predictive analytics using machine learning to forecast sales.
 Incorporate real-time data for live dashboard updates.
 
 📜 License
+
 This project is open-source. Contributions are welcome!
 
 ⭐ If you found this useful, don’t forget to star this repo! ⭐
