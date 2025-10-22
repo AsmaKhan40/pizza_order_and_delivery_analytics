@@ -1,4 +1,4 @@
-# pizza_order_and_delivery_analytics
+# pizza order and delivery analytics
 🍕 Pizza Delivery Data Analysis Project
 
 End-to-end pizza delivery analysis using SQL (cleaning), Python (EDA), and Power BI (interactive dashboard). Includes PPT with insights.
