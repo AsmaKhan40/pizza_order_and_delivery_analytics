@@ -5,6 +5,7 @@ End-to-end pizza delivery analysis using SQL (cleaning), Python (EDA), and Power
 
 
 📌Project Overview:-
+
 This project focuses on analyzing Pizza Delivery Data to uncover key insights related to order patterns, delays, customer preferences, and delivery performance.
 
 It includes data cleaning using SQL, Python used for EDA & Analyzing , and an interactive Power BI dashboard for business decision-making.
