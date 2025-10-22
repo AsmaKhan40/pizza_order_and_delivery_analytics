@@ -10,6 +10,7 @@ This project focuses on analyzing Pizza Delivery Data to uncover key insights re
 It includes data cleaning using SQL, Python used for EDA & Analyzing , and an interactive Power BI dashboard for business decision-making.
 
 🛠️ Tech Stack
+
 SQL – Data storing, data cleaning and transformation
 
 Python (Pandas, Matplotlib, Seaborn) – Exploratory Data Analysis (EDA), Analyzing and visualizations
