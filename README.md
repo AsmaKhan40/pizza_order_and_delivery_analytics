@@ -8,7 +8,8 @@ End-to-end pizza delivery analysis using SQL (cleaning), Python (EDA), and Power
 
 This project focuses on analyzing Pizza Delivery Data to uncover key insights related to order patterns, delays, customer preferences, and delivery performance.
 
-It includes data cleaning using SQL, Python used for EDA & Analyzing , and an interactive Power BI dashboard for business decision-making.
+It includes data cleaning using SQL, Python used for EDA & Analyzing , and an interactive Power BI 2 pages dashboard for business decision-making.
+
 
 🛠️ Tech Stack
 
@@ -16,7 +17,32 @@ SQL – Data storing, data cleaning and transformation
 
 Python (Pandas, Matplotlib, Seaborn) – Exploratory Data Analysis (EDA), Analyzing and visualizations
 
-Power BI – Interactive dashboard for insights
+Power BI – 2 pages Interactive dashboard for insights
+
+
+📂 Dataset
+
+Source: Kaggle - Enhanced Pizza Data
+Description: The dataset contains pizza order details, including order ID, date, pizza type, size, delay, location, etc.
+
+
+🔄 My Workflow
+
+Collected Data:- Downloaded the dataset from Kaggle as a CSV file.
+
+Stored and Cleaned the Data:- Imported the data into MySQL. Cleaned it using SQL (handled missing values, removed duplicates, fixed data types).
+
+Explored the Data with Python:- Analyzed key trends and created visualizations for better understanding. 
+Built the Dashboard,Designed an interactive Power BI dashboard with KPIs, slicers, and multiple charts.
+
+Documented Everything:- Summarized the findings and actionable recommendations in a PowerPoint presentation.
+
+
+🖼️ Dashboard Preview
+
+Here’s a glimpse of the interactive 2 pages Power BI dashboard built for this project:
+
+<img width="1307" height="743" alt="Screenshot 2025-10-22 174017" src="https://github.com/user-attachments/assets/d815f86c-84d2-4ab7-9b79-7f9990b59ab0" />
 
 
 📊 Key Insights
@@ -31,21 +57,6 @@ Specialty pizzas like Thin Crust and Deep Dish have minimal delays, likely due t
 
 The monthly delay trends showed that August experienced the highest number of delays, likely due to a peak in orders during that month.
 
-🔄 My Workflow
-
-Collected Data:- Downloaded the dataset from Kaggle as a CSV file.
-
-Stored and Cleaned the Data:- Imported the data into MySQL. Cleaned it using SQL (handled missing values, removed duplicates, fixed data types).
-
-Explored the Data with Python:- Analyzed key trends and created visualizations for better understanding. 
-Built the Dashboard,Designed an interactive Power BI dashboard with KPIs, slicers, and multiple charts.
-
-Documented Everything:- Summarized the findings and actionable recommendations in a PowerPoint presentation.
-
-📂 Dataset
-
-Source: Kaggle - Enhanced Pizza Data
-Description: The dataset contains pizza order details, including order ID, date, pizza type, size, delay, location, etc.
 
 📝 Actionable Insights
 
